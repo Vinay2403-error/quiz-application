@@ -1,0 +1,2 @@
+The Python Quiz Application is a simple console-based project developed using Python.
+It reads multiple-choice questions from a text file, displays them in random order, and allows users to answer interactively. The application automatically checks responses, calculates scores, and displays the final result along with the percentage. It also includes a quit option, enabling users to exit the quiz at any time while preserving their progress. This project demonstrates the use of Python concepts such as file handling, loops, conditional statements, and user input processing.
